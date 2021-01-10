@@ -1,0 +1,33 @@
+F:\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.exe
+F:\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.deps.json
+F:\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.runtimeconfig.json
+F:\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.runtimeconfig.dev.json
+F:\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.dll
+F:\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.pdb
+F:\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.csprojAssemblyReference.cache
+F:\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.AssemblyInfoInputs.cache
+F:\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.AssemblyInfo.cs
+F:\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.dll
+F:\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.pdb
+D:\NENG\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.exe
+D:\NENG\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.deps.json
+D:\NENG\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.runtimeconfig.json
+D:\NENG\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.runtimeconfig.dev.json
+D:\NENG\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.dll
+D:\NENG\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.pdb
+D:\NENG\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.csprojAssemblyReference.cache
+D:\NENG\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.AssemblyInfoInputs.cache
+D:\NENG\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.AssemblyInfo.cs
+D:\NENG\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.dll
+D:\NENG\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.pdb
+D:\Hana Hasanah\per dotnet an\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.exe
+D:\Hana Hasanah\per dotnet an\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.deps.json
+D:\Hana Hasanah\per dotnet an\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.runtimeconfig.json
+D:\Hana Hasanah\per dotnet an\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.runtimeconfig.dev.json
+D:\Hana Hasanah\per dotnet an\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.dll
+D:\Hana Hasanah\per dotnet an\QuizNeng\bin\Debug\netcoreapp3.0\QuizNeng.pdb
+D:\Hana Hasanah\per dotnet an\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.csprojAssemblyReference.cache
+D:\Hana Hasanah\per dotnet an\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.AssemblyInfoInputs.cache
+D:\Hana Hasanah\per dotnet an\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.AssemblyInfo.cs
+D:\Hana Hasanah\per dotnet an\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.dll
+D:\Hana Hasanah\per dotnet an\QuizNeng\obj\Debug\netcoreapp3.0\QuizNeng.pdb
